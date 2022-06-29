@@ -1,4 +1,4 @@
-#Ecenur Atıgan
+# Ecenur Yalman
 
 from bs4 import BeautifulSoup as bs
 import os 
